@@ -27,7 +27,7 @@
     
     #ins-wrapper {
         margin-top: 30px;
-        background-image: url("./img/instagram-celular2.png");
+        background-image: url("./img/instagram-celular.png");
         width: 454px;
         height: 618px;
     }
@@ -133,15 +133,16 @@
     }
     
     #slider {
-        width: 245px;
-        height: 434px;
-        padding: 23% 0 0 34%;
+        width: 240px;
+        height: 490px;
+        padding: 100px 0 0 151px;
         position: relative;
     }
     
     #slider img {
         opacity: 0;
         position: absolute;
+        transition: opacity 1500ms;
     }
     
     #slider img.selected {

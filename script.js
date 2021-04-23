@@ -1,4 +1,4 @@
-let time = 1000,
+let time = 3000,
     currentImageIndex = 0,
     images = document
     .querySelectorAll("#slider img")
@@ -20,6 +20,7 @@ function nextImage() {
 function start() {
     setInterval(() => {
         //trca de image
+        nextImage()
     }, time)
 }
 

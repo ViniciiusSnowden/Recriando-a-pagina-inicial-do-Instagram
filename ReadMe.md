@@ -9,8 +9,6 @@ ___
 
 
 
-Projeto para reforça apredizagem. Bora coda. :rocket:  
-Não é nescessário instalar nenhum framework para exercução.
-
+Projeto para reforça apredizagem. Bora coda. :rocket:
 
 
